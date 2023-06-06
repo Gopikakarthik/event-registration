@@ -379,7 +379,7 @@ figma
 
 ## OUTPUT:![output](./home.png.jpg)
 ![output](./login.png.jpg)
-![output](./SEC.png.jpg)
+![output](./section.png.jpg)
 
 
 ## Result:
