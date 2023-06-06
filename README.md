@@ -377,9 +377,9 @@ figma
 
 '''
 
-## OUTPUT:![output](./home.png)
-![output](./login.png)
-![output](./SEC.png)
+## OUTPUT:![output](./home.png.jpg)
+![output](./login.png.jpg)
+![output](./SEC.png.jpg)
 
 
 ## Result:
